@@ -1,0 +1,21 @@
+{
+  "name": "ultimate-flask-front-end-2.1",
+  "authors": [
+    "Jessy Yameogo <jessy.yameogo@alayacare.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.0"
+  }
+}
